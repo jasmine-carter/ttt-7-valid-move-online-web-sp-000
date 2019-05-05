@@ -4,7 +4,6 @@ def valid_move?(board, index)
     true
 end
 end
-valid
 # re-define your #position_taken? method here, so that you can use it in the #valid_move? method above.
 taken = nil
 def position_taken?(board, index)
